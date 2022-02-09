@@ -1,0 +1,46 @@
+Todos os alunos: 
+Alexandre Martins
+Dra. Alana Porto
+Dra. Lavínia Lopes
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Pietra Martins
+Srta. Ana Júlia Ramos
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
+
+Turma Java: 
+Alexandre Martins
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Natália Gomes
+Pietra Martins
+Srta. Ana Júlia Ramos
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
+
+Turma Banco de Dados: 
+Dra. Alana Porto
+Dra. Lavínia Lopes
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Srta. Ana Júlia Ramos
+Thales Farias
+Vitor Hugo Lima
+Yago Ramos
+
+Total de Alunos: 
+15
